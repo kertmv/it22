@@ -1,0 +1,118 @@
+#Kert Markus Vare
+#03.-11.2022
+#iseseisev töö
+
+#õunamahla tegemine
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+def banner(a):
+    a=a.upper()
+    return a
+
+
+a=int(input("Mitu korda soovite reklaamlauset kuvada? "))
+b=input("mida soovite kuvada")
+for i in range(a):
+    print(banner(b))
+
+
+"""
+
+print("!")
+a=int(input("Mitu korda soovite reklaamlauset kuvada? ")))
+b=input("mida soovite kuvada")
+for i in range (a):
+        print (b.upper())
+
+
+
+
+
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
